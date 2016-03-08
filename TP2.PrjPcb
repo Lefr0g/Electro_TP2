@@ -211,111 +211,79 @@ DocumentPath=Project Outputs for TP2\BOM\Bill of Materials-Bill of Materials.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for TP2\Folder Structure\BOM\Bill of Materials-Bill of Materials.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for TP2\Folder Structure\Gerber\PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GM32
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GML
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for TP2\Folder Structure\Gerber\PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for TP2\Folder Structure\Gerber\PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for TP2\Gerber\PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Project Outputs for TP2\Folder Structure\Pick Place\Pick Place for PCB.csv
-DItemRevisionGUID=
-
-[GeneratedDocument27]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for TP2\Pick Place\Pick Place for PCB.csv
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for TP2\Pick Place\Pick Place for PCB.txt
 DItemRevisionGUID=
 
 [Configuration1]
