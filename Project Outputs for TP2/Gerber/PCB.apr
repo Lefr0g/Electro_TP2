@@ -30,5 +30,9 @@ D38   ROUNDED            37.528      35.559       0.000 FLASH       0.000
 D39   ROUNDED            67.055      67.055       0.000 FLASH       0.000
 D40   RECTANGULAR        67.055      67.055       0.000 FLASH       0.000
 D41   ROUNDED            35.559      35.559       0.000 FLASH       0.000
-D42   ROUNDED             3.937       3.937       0.000  LINE       0.000
-D43   ROUNDED             4.665       4.665       0.000  LINE       0.000
+D42   ROUNDED             2.626       2.626       0.000  LINE       0.000
+D43   ROUNDED            15.000      15.000       0.000  LINE       0.000
+D44   ROUNDED            10.000      10.000       0.000  LINE       0.000
+D45   ROUNDED            16.000      16.000       0.000  LINE       0.000
+D46   ROUNDED             6.000       6.000       0.000  LINE       0.000
+D47   ROUNDED             3.937       3.937       0.000  LINE       0.000
