@@ -1,26 +1,14 @@
-Output: Gerber Files
-Type  : Gerber
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:28:03 PM On 3/21/2016
+
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of PCB Document [PCB.PcbDoc]
-   Generated File[Gerber Files.GTL]
-   Generated File[Gerber Files.GBL]
-   Generated File[Gerber Files.GPB]
-   Generated File[Gerber Files.GPT]
-   Generated File[Gerber Files.GTO]
-   Generated File[Gerber Files.GTP]
-   Generated File[Gerber Files.GTS]
-   Generated File[Gerber Files.GBS]
-   Generated File[Gerber Files.GBP]
-   Generated File[Gerber Files.GBO]
-   Generated File[Gerber Files.GKO]
-   Generated File[Gerber Files.GM32]
-   Generated File[Gerber Files.GD1]
-   Generated File[Gerber Files.GG1]
-   Generated File[Gerber Files.RUL]
-   Generated File[Gerber Files.EXTREP]
-   Generated File[Gerber Files.REP]
+   Generated File[Pick and Place.csv]
 
 
-Files Generated   : 17
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 6:55:01 PM On 3/21/2016
+Finished Output Generation At 8:28:03 PM On 3/21/2016
