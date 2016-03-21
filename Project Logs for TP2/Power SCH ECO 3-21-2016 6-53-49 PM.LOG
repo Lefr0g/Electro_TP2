@@ -1,0 +1,3 @@
+Change Component Parameter Description in D4 Old=Typical RED, GREEN, YELLOW, AMBER GaAs LED New=Typical INFRARED GaAs LED
+Change Component Parameter Description in FB1 Old=Inductor New=Ferrite Bead
+Change Component Parameter Description in U2 Old= New=1A LDO, 18V input, DPAK

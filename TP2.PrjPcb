@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for TP2
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -211,83 +211,155 @@ DocumentPath=Project Outputs for TP2\BOM\Bill of Materials-Bill of Materials.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for TP2\Design Rule Check - PCB.html
+DocumentPath=Project Outputs for TP2\Bill of Materials\Bill of Materials.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.EXTREP
+DocumentPath=Project Outputs for TP2\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GBL
+DocumentPath=Project Outputs for TP2\Generates pick and place files\Generates pick and place files.csv
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GBO
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GBP
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GBS
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GD1
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GG1
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GKO
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GM1
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GM32
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GPB
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GM32
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GPT
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GTL
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GTO
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GTP
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.GTS
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.REP
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for TP2\Gerber\PCB.RUL
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.REP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for TP2\Pick Place\Pick Place for PCB.csv
+DocumentPath=Project Outputs for TP2\Gerber Files\Gerber Files.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GM32
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for TP2\Gerber\PCB.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -301,7 +373,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for TP2
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -703,10 +775,12 @@ TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
-OutputDocumentPath1=
+OutputDocumentPath1=C:\Users\bocal\Documents\Electro_TP2\Project Outputs for TP2\Generates pick and place files\Generates pick and place files.csv
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=TextPrintView|Header=True|PageNumbers=True|LineNumbers=False|Syntax=True|WrapLines=True|UsePrinterFont=False
 OutputType2=Text Print
 OutputName2=Text Print
 OutputDocumentPath2=
@@ -1193,11 +1267,13 @@ L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
-SortLocation=0
+SortLocation=1
 MatchParameter1=Comment
 MatchStrictly1=1
-MatchParameter2=Library Reference
+MatchParameter2=Footprint
 MatchStrictly2=1
+MatchParameter3=Library Reference
+MatchStrictly3=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
